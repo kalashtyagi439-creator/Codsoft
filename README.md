@@ -1,3 +1,6 @@
 # Codsoft Artificial Internship
 ## TASK 1- Chatbot
 completed
+#TAS 2 - TIC_TAC _TOE _AI
+COMPLETED
+
